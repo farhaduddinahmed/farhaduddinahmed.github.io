@@ -63,7 +63,6 @@ ul{
 #para1{
 	font-size: 20px;
 	line-height: 2;
-	letter-spacing: 3px;
 	color: red;
 	width: 715px;
 	margin: 4px 4px 4px 4px;
@@ -75,7 +74,6 @@ ul{
 #para2{
 	font-size: 20px;
 	line-height: 2;
-	letter-spacing: 6px;
 	color: green;	
 	width: 715px;
 	margin: 4px 4px 4px 4px;
